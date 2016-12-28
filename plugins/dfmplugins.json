@@ -1,12 +1,12 @@
 [
     {
-        "name": "MyMail AmazonSES Integration",
-        "description": "Use Amazon's Simple Email Service (SES) to deliver your campaigns.",
+        "name": "WooCommerce Delivery Date",
+        "description": "This Woocommerce Delivery Date plugin will allow the customer to choose an order delivery date on the checkout page.",
         "image": "//dreamfoxmedia.github.io/dreamfoxmedia/images/wcddp500x500.png",
         "wpslug": "mymail-amazon-ses-integration/amazonses.php",
         "is_free": true,
-        "author": "revaxarts",
-        "author_url": "https://revaxarts.com"
+        "author": "Dreamfox Media",
+        "author_url": "https://dreamfoxmedia.com"
     },
     {
         "name": "MyMail Mandrill Integration",
