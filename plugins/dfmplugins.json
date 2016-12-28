@@ -3,7 +3,7 @@
         "name": "WooCommerce Delivery Date",
         "description": "This Woocommerce Delivery Date plugin will allow the customer to choose an order delivery date on the checkout page.",
         "image": "//dreamfoxmedia.github.io/dreamfoxmedia/images/wcddp500x500.png",
-        "wpslug": "mymail-amazon-ses-integration/amazonses.php",
+        "wpslug": "woocommerce-delivery-date/woocommerce-delivery-date.php",
         "is_free": true,
         "author": "Dreamfox Media",
         "author_url": "https://dreamfoxmedia.com"
