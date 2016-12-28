@@ -2,7 +2,7 @@
     {
         "name": "MyMail AmazonSES Integration",
         "description": "Use Amazon's Simple Email Service (SES) to deliver your campaigns.",
-        "image": "http//mymailapp.github.io/addons/amazonses_2x.png",
+        "image": "//dreamfoxmedia.github.io/dreamfoxmedia/images/wcddp500x500.png",
         "wpslug": "mymail-amazon-ses-integration/amazonses.php",
         "is_free": true,
         "author": "revaxarts",
