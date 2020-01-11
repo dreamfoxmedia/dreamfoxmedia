@@ -9,11 +9,12 @@
         "author_url": "https://dreamfoxmedia.com"
     },
     {
-        "name": "Live! for MyMail",
-        "description": "see who opens your newsletter campaigns in real time!",
-        "image": "//mymailapp.github.io/addons/live_2x.png",
-        "link": "http://rxa.li/live?utm_source=MyMail+Add+Ons+Page",
-        "author": "revaxarts",
-        "author_url": "http://codecanyon.net/user/revaxarts?utm_source=MyMail+Add-on+Page"
+        "name": "WooCommerce Delivery Date",
+        "description": "This Woocommerce Delivery Date plugin will allow the customer to choose an order delivery date on the checkout page.",
+        "image": "//dreamfoxmedia.github.io/dreamfoxmedia/images/wcddp500x500.png",
+        "wpslug": "woocommerce-delivery-date/woocommerce-delivery-date.php",
+        "is_free": true,
+        "author": "Dreamfox Media",
+        "author_url": "https://dreamfoxmedia.com"
     }
 ]
